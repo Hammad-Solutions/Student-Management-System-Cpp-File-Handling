@@ -30,8 +30,6 @@ It is a **beginner-friendly project**, perfect for **first semester students** w
 ## 📊 Project Flowchart
 ![Flowchart](assets/images/flowchart.png)
 
-*(Replace with your actual flowchart image. Convert PDF → PNG/JPG and put inside `assets/images/` folder.)*
-
 ---
 
 ## 🖼 Output Screenshots
@@ -52,6 +50,4 @@ It is a **beginner-friendly project**, perfect for **first semester students** w
 ## 🎥 Demo Video
 [▶ Watch Demo](assets/videos/demo.mp4)  
 
-*(Or upload your video to YouTube and replace with a clickable thumbnail:)*  
-```markdown
-[![Watch the video](assets/screenshots/demo-thumbnail.png)](https://youtu.be/YOUR_VIDEO_LINK)
+
