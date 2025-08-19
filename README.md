@@ -43,7 +43,7 @@ It is a **beginner-friendly project**, perfect for **first semester students** w
 ### Attendance Percentage
 ![Attendance Percentage](assets/screenshots/student.png)
 
-*(Take real screenshots of your program output and save them in `assets/screenshots/` folder.)*
+
 
 ---
 
