@@ -48,6 +48,9 @@ It is a **beginner-friendly project**, perfect for **first semester students** w
 ---
 
 ## 🎥 Demo Video
-[▶ Watch Demo](assets/videos/demo.mp4)  
+[▶ Watch Demo](assets/videos/demo.mp4)
+## OR
+Watch the demo of this project on [LinkedIn](https://www.linkedin.com/posts/hammad-solution_cplusplus-filehandling-studentmanagementsystem-activity-7363887626501738497-Ie5B?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD7ehJwB0_FcvytmTsHRpNnDo79WRouD4L8)
+
 
 
